@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d64bbcd2-0100-4746-9bbe-c66e74bf5317" name="Changes" comment="" />
+    <list default="true" id="d64bbcd2-0100-4746-9bbe-c66e74bf5317" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio19_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ejercicios/Ejercicio19_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio19_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio19_3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -21,12 +36,31 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ejercicio1.executor": "Run",
+    "Application.Ejercicio13_2.executor": "Run",
+    "Application.Ejercicio14_2.executor": "Run",
+    "Application.Ejercicio16_3.executor": "Run",
+    "Application.Ejercicio19_3.executor": "Run",
+    "Application.Ejercicio1_2.executor": "Run",
+    "Application.Ejercicio1_3.executor": "Run",
+    "Application.Ejercicio1_4.executor": "Run",
+    "Application.Ejercicio2.executor": "Run",
+    "Application.Ejercicio3_2.executor": "Run",
+    "Application.Ejercicio5.executor": "Run",
+    "Application.Ejercicio5_3.executor": "Run",
+    "Application.Ejercicio5_4.executor": "Run",
+    "Application.Ejercicio6_4.executor": "Run",
+    "Application.Ejercicio7.executor": "Run",
+    "Application.Ejercicio7_4.executor": "Run",
+    "Application.Ejercicio8_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Isaías/Desktop/Isa/Proyectos/EjerciciosJava-master",
+    "last_opened_file_path": "D:/Isaías/Desktop/Isa/Proyectos/EjerciciosJava",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

@@ -30,7 +30,7 @@ public class Ejercicio19_3 {
 		}
 		System.out.println("Cantidad de aprobados: "+aprobados);
 		System.out.println("Cantidad de condicionados: "+condicionados);
-		System.out.println("Cantidad de aprobados: "+suspensos);
+		System.out.println("Cantidad de suspensos: "+suspensos);
 	}
 
 }
