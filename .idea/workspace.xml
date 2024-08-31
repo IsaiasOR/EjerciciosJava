@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d64bbcd2-0100-4746-9bbe-c66e74bf5317" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio19_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ejercicios/Ejercicio19_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio19_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio19_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +33,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Ejercicio1.executor": "Run",
+    "Application.Ejercicio11_4.executor": "Run",
+    "Application.Ejercicio12_4.executor": "Run",
     "Application.Ejercicio13_2.executor": "Run",
     "Application.Ejercicio14_2.executor": "Run",
     "Application.Ejercicio16_3.executor": "Run",
@@ -52,6 +51,8 @@
     "Application.Ejercicio7.executor": "Run",
     "Application.Ejercicio7_4.executor": "Run",
     "Application.Ejercicio8_4.executor": "Run",
+    "Application.Ejercicio9_4.executor": "Run",
+    "Application.Ejercicios10_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
