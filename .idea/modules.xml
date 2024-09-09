@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ATSJava.iml" filepath="$PROJECT_DIR$/ATSJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ordenamientos/Ordenamientos.iml" filepath="$PROJECT_DIR$/ordenamientos/Ordenamientos.iml" />
     </modules>
   </component>
 </project>

@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/primerBloque" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/segundoBloque" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tercerBloque" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ordenamientos" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="JavaSE-18" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
