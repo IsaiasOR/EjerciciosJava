@@ -4,11 +4,13 @@
     <output url="file://$MODULE_DIR$/bin" />
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/cuartoBloque" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/primerBloque" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/segundoBloque" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/tercerBloque" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ordenamientos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arreglos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/busquedas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ciclos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/condicionales" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/introduccion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matrices" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="JavaSE-18" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
