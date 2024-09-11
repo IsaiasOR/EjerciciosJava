@@ -5,125 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d64bbcd2-0100-4746-9bbe-c66e74bf5317" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/busquedas/busquedaSecuencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrices/ejerciciosMatrices/Ejercicio1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ATSJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ATSJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio10_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio10_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio11_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio11_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio11_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio12_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio12_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio12_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio13_04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio13_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio13_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio14_04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio14_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio14_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio15_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio16_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio17_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio18_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio19_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio1_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio1_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio1_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio20_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio21_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio22_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio2_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio2_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio2_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio3_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio3_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio3_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio4_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio4_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio4_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio5_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio5_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio5_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio6_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio6_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio6_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio7_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio7_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio7_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio8_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio8_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio8_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio9_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio9_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicio9_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ejercicios/Ejercicios10_4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio11_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio11_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio12_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio12_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio13_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio13_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio14_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio14_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio1_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio1_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio2_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio3_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio4_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio5_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio6_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio6_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio7_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio8_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio8_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicio9_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicio9_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuartoBloque/ejercicios/Ejercicios10_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/arreglos/ejerciciosCuartoBloque/Ejercicios10_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primerBloque/ejercicios/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion/ejerciciosPrimerBloque/Ejercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primerBloque/ejercicios/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion/ejerciciosPrimerBloque/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primerBloque/ejercicios/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion/ejerciciosPrimerBloque/Ejercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primerBloque/ejercicios/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion/ejerciciosPrimerBloque/Ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primerBloque/ejercicios/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion/ejerciciosPrimerBloque/Ejercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primerBloque/ejercicios/Ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion/ejerciciosPrimerBloque/Ejercicio6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primerBloque/ejercicios/Ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion/ejerciciosPrimerBloque/Ejercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primerBloque/ejercicios/Ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduccion/ejerciciosPrimerBloque/Ejercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio10_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio10_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio11_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio11_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio12_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio12_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio13_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio13_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio14_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio14_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio1_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio4_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio5_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio6_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio7_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio8_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segundoBloque/ejercicios/Ejercicio9_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales/ejerciciosSegundoBloque/Ejercicio9_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio10_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio10_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio11_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio11_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio12_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio12_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio13_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio13_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio14_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio14_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio15_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio15_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio16_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio16_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio17_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio17_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio18_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio18_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio19_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio19_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio1_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio20_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio20_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio21_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio21_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio22_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio22_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio2_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio4_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio4_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio5_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio6_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio7_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio8_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio8_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tercerBloque/ejercicios/Ejercicio9_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ciclos/ejerciciosTercerBloque/Ejercicio9_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,46 +31,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Burbuja.executor": "Run",
-    "Application.Ejercicio1.executor": "Run",
-    "Application.Ejercicio11_4.executor": "Run",
-    "Application.Ejercicio12_4.executor": "Run",
-    "Application.Ejercicio13_04.executor": "Run",
-    "Application.Ejercicio13_2.executor": "Run",
-    "Application.Ejercicio14_04.executor": "Run",
-    "Application.Ejercicio14_2.executor": "Run",
-    "Application.Ejercicio16_3.executor": "Run",
-    "Application.Ejercicio19_3.executor": "Run",
-    "Application.Ejercicio1_2.executor": "Run",
-    "Application.Ejercicio1_3.executor": "Run",
-    "Application.Ejercicio1_4.executor": "Run",
-    "Application.Ejercicio2.executor": "Run",
-    "Application.Ejercicio3_2.executor": "Run",
-    "Application.Ejercicio5.executor": "Run",
-    "Application.Ejercicio5_3.executor": "Run",
-    "Application.Ejercicio5_4.executor": "Run",
-    "Application.Ejercicio6_4.executor": "Run",
-    "Application.Ejercicio7.executor": "Run",
-    "Application.Ejercicio7_4.executor": "Run",
-    "Application.Ejercicio8_4.executor": "Run",
-    "Application.Ejercicio9_4.executor": "Run",
-    "Application.Ejercicios10_4.executor": "Run",
-    "Application.Insercion.executor": "Run",
-    "Application.busquedaSecuencial.executor": "Run",
-    "Application.matriz.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Isaías/Desktop/Isa/Proyectos/EjerciciosJava",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Burbuja.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio11_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio12_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio13_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio13_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio14_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio14_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio16_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio19_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio1_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio1_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio6_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio7_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio8_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio9_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicios10_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Insercion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.busquedaSecuencial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.matriz.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Isaías/Desktop/Isa/Proyectos/EjerciciosJava&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Isaías\Desktop\Isa\Proyectos\EjerciciosJava\Ordenamientos" />
