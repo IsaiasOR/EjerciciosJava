@@ -1,5 +1,9 @@
 package ejerciciosMatrices;
 
+/*
+Ejercicio 1: Crear y cargar una matriz de tamaño n x m y decir si es simétrica o no.
+ */
+
 import javax.swing.*;
 import java.util.Scanner;
 
