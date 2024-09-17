@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d64bbcd2-0100-4746-9bbe-c66e74bf5317" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrices/ejerciciosMatrices/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/matrices/ejerciciosMatrices/Ejercicio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +22,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2kFLZgRn4hqRIjkzqvmeskBIjzW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,6 +58,7 @@
     "Application.Ejercicio5.executor": "Run",
     "Application.Ejercicio5_3.executor": "Run",
     "Application.Ejercicio5_4.executor": "Run",
+    "Application.Ejercicio6.executor": "Run",
     "Application.Ejercicio6_4.executor": "Run",
     "Application.Ejercicio7.executor": "Run",
     "Application.Ejercicio7_4.executor": "Run",
