@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/condicionales" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/introduccion" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/matrices" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/poo" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="JavaSE-18" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
