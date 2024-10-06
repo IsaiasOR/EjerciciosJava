@@ -4,6 +4,8 @@ public class Main {
     public static void main(String[] args) {
         Movimiento m = new Movimiento();
 
+        System.out.println(m.getCooerdenadas());
+
         m.abajo();
         m.abajo();
 
@@ -16,5 +18,6 @@ public class Main {
         m.derecha();
         m.derecha();
 
+        System.out.println(m.getCooerdenadas());
     }
 }
