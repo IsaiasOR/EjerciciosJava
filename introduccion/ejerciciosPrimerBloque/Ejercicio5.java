@@ -3,7 +3,7 @@ package ejerciciosPrimerBloque;
 import java.util.Scanner;
 
 /*
- * La calificación final de un estudiante de informática
+ * La calificación final de un Estudiante de informática
  * se calcula con base a las calificaciones de cuatro
  * aspectos de su rendimiento académico:
  * participación, primer examen parcial, segundo examen
@@ -11,7 +11,7 @@ import java.util.Scanner;
  * anteriores entran en la calificación final con 
  * ponderaciones del 10%, 25%, 25% y 40%.
  * Hacer un programa que calcule e imprima la calificación
- * final obtenida por un estudiante.
+ * final obtenida por un Estudiante.
  */
 
 public class Ejercicio5 {
