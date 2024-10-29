@@ -28,9 +28,9 @@ public class Triangulo extends Poligono {
     public String toString() {
         return "Triangulo: \n" +
                 super.toString() +
-                "\nLado 1 = " + lado1 +
-                "\nLado 2 = " + lado2 +
-                "\nLado 3 = " + lado3;
+                "\n     Lado 1 = " + lado1 +
+                "\n     Lado 2 = " + lado2 +
+                "\n     Lado 3 = " + lado3;
     }
 
     @Override

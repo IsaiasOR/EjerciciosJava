@@ -22,8 +22,8 @@ public class Rectangulo extends Poligono {
     public String toString() {
         return "Rectangulo: \n" +
                 super.toString() +
-                "\nLado 1 = " + lado1 +
-                "\nLado 2 = " + lado2;
+                "\n     Lado 1 = " + lado1 +
+                "\n     Lado 2 = " + lado2;
     }
 
     @Override
